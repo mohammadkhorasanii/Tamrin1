@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\bin\Debug\net8.0\tamrin1.exe
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\bin\Debug\net8.0\tamrin1.deps.json
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\bin\Debug\net8.0\tamrin1.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\bin\Debug\net8.0\tamrin1.dll
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\bin\Debug\net8.0\tamrin1.pdb
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.sourcelink.json
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.dll
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\refint\tamrin1.dll
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.pdb
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\tamrin1.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\project cs\tamrin1\obj\Debug\net8.0\ref\tamrin1.dll
